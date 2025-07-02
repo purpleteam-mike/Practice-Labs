@@ -24,22 +24,23 @@ My approach is grounded in the belief that strong cybersecurity professionals mu
 
 - Developing and uploading technical labs
 
-- Building toward a career in Cyber Security; pursuing entry level jobs (ex: SOC Analysis, job 2, job 3)
+- Building toward a career in Cyber Security; pursuing entry level jobs (ex: SOC Analysis I, Cybersecurity Analysis I, Jr. Threat Detection Analysis, or IT Security Specialist)
 
 ---
 
 ## Future Goals
 
-**SHORT TERM**
+**SHORT TERM** (within a year)
 
 - CompTIA Security+
 - CompTIA PenTest+
+- CompTIA CySA+
 - Continue developing/practicing labs in adversary emulation; keeping Purple Team mindset and learning both attack and defense.
 - Begin participating in CTFs, Hack The Box, and other offensive security platforms to sharpen Red Team intuition
 
-**LONG TERM**
+**LONG TERM** (within 2-3 years)
 
-- 
+- Pursue a career in Digital Forensics
 
 ---
 
