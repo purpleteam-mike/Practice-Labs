@@ -1,6 +1,8 @@
 # Cybersecurity Lab Portfolio
 
-Welcome to my cybersecurity lab portfolio; a growing collection of hands-on projects that reflect my evolving skills in offensive and defensive security. Each lab is rooted in simulation, analysis, and documentation,with a focus on building real-world cybersecurity awareness through a Purple Team mindset.
+Welcome to my cybersecurity lab portfolio; a growing collection of hands-on projects that reflect my evolving skills in offensive and defensive security. Each lab is rooted in simulation, analysis, and documentation,with a focus on building real-world cybersecurity awareness through a Purple Team mindset. 
+
+I plan to utilize my purple team skills and channel that into digital forensics and incident response. I can combine my attacker awareness with defender skills to investigate and respond to real-world incidents.
 
 ---
 
@@ -22,9 +24,9 @@ My approach is grounded in the belief that strong cybersecurity professionals mu
 
 - Actively pursuing the CompTIA Security+ Certification
 
-- Developing and uploading technical labs
+- Developing and uploading technical labs that relate to my short term and long term goals
 
-- Building toward a career in Cyber Security; pursuing entry level jobs (ex: SOC Analysis I, Cybersecurity Analysis I, Jr. Threat Detection Analysis, or IT Security Specialist)
+- Building toward a career in Digital Forensics; pursuing entry level jobs (ex: SOC Analysis I, Cybersecurity Analysis I, Jr. Threat Detection Analysis, or IT Security Specialist)
 
 ---
 
@@ -33,7 +35,6 @@ My approach is grounded in the belief that strong cybersecurity professionals mu
 **SHORT TERM** (within a year)
 
 - CompTIA Security+
-- CompTIA PenTest+
 - CompTIA CySA+
 - Continue developing/practicing labs in adversary emulation; keeping Purple Team mindset and learning both attack and defense.
 - Begin participating in CTFs, Hack The Box, and other offensive security platforms to sharpen Red Team intuition
@@ -49,6 +50,9 @@ My approach is grounded in the belief that strong cybersecurity professionals mu
 - IT task automation with PowerShell  
 - Linux honeypot deployment and monitoring   
 - Risk assessment modeling for mock businesses
+-
+-
+-
 
 ---
 
