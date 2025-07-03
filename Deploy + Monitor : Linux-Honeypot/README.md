@@ -39,6 +39,7 @@ The honeypot was successfully deployed in a VM and configured to mimic a real SS
 ## 📄 Files Included
 
 - `Deploy_&_Monitor-Linux_Honeypot.pdf` – full lab report with screenshots and analysis
+- https://github.com/purpleteam-mike/Practice-Labs/blob/main/Deploy%20%2B%20Monitor%20%3A%20Linux-Honeypot/Deploy_%26_Monitor-Linux_Honeypot.pdf
 
 ---
 
