@@ -9,7 +9,7 @@ This lab demonstrates how I used PowerShell scripting to automate common IT admi
 
 Completed as part of my cybersecurity certification through Simplilearn (backed by Purdue University), this lab reinforces foundational skills in scripting, system auditing, and blue team automation.
 
-📄 [Download the full PDF report](./IT_Task_Automation_Lab.pdf)
+📄 [Download the full PDF report](https://github.com/purpleteam-mike/Practice-Labs/blob/main/it-task-automation/IT_Task_Automation_Lab.pdf)
 
 **Status:** ✅ Completed  
 **Tools Used:** PowerShell, Windows 10  
