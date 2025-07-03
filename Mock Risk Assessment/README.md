@@ -31,7 +31,6 @@ To perform a detailed risk analysis of a mock organization by identifying its as
 
 ## 📄 Files Included
 
-- View full report: `https://github.com/purpleteam-mike/Practice-Labs/blob/main/Mock%20Risk%20Assessment/Mock%20Risk%20Assessment.pdf`
 📄 [View the full PDF here](https://github.com/purpleteam-mike/Practice-Labs/blob/main/Mock%20Risk%20Assessment/Mock%20Risk%20Assessment.pdf)
 
 ---
