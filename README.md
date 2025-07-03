@@ -14,7 +14,7 @@ My approach is grounded in the belief that strong cybersecurity professionals mu
 
 - Bridging the gap between 🔴 Red Team and 🔵 Blue Team by applying offensive tactics to improve defensive readiness
 
-- Practicing and documenting labs that reflect both adversarial thinking and operational defense🦾
+- Practicing and documenting labs that reflect both adversarial thinking and operational defense 🦾
 
 ---
 
@@ -26,7 +26,7 @@ My approach is grounded in the belief that strong cybersecurity professionals mu
 
 - Developing and uploading technical labs that relate to my goals ✔️
 
-- Building toward a career in Digital Forensics; pursuing entry level jobs (ex: SOC Analysis I, Cybersecurity Analysis I, Jr. Threat Detection Analysis, or IT Security Specialist)
+- Building toward a career in Digital Forensics; pursuing entry level jobs ✔️ (ex: SOC Analysis I, Cybersecurity Analysis I, Jr. Threat Detection Analysis, or IT Security Specialist)
 
 ---
 
@@ -81,12 +81,11 @@ My approach is grounded in the belief that strong cybersecurity professionals mu
 
 ## 📤 Projects You'll Find Here
 
-- IT task automation with PowerShell  
-- Linux honeypot deployment and monitoring   
-- Risk assessment modeling for mock businesses
--
--
--
+- IT Task Automation with PowerShell  
+- Linux Honeypot Deployment and Monitoring   
+- Mock Risk Assessment
+- Infecting a Windows System: Creating + Deploying a Payload (Forthcoming)
+- Digital Forensics and Steganography: Recovering Hidden Data from a JPG Image (Anticipated)
 
 ---
 
