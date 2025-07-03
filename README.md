@@ -92,3 +92,7 @@ My approach is grounded in the belief that strong cybersecurity professionals mu
 ## 📨 Summary
 
 This repo. showcases basic Cyber Security Professional skills. Other repos are being developed to showcase more targeted skills in digital forensics. Each folder in this repository contains a full PDF report and a structured `README.md` summary.
+
+---
+
+> ⚠️ This project was conducted entirely in a controlled lab environment for educational purposes only. No real-world systems were targeted or harmed. All tools (e.g., Metasploit) were used ethically and responsibly under strict simulation conditions.
