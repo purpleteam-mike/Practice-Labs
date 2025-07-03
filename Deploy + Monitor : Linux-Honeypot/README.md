@@ -1,10 +1,10 @@
-# 🐝 Linux Honeypot Deployment Lab
+# 🍯 Linux Honeypot Deployment Lab
 
 This project demonstrates the deployment and monitoring of a **Linux-based honeypot** in a simulated cybersecurity environment. The purpose of this lab was to observe attacker behavior, collect network intelligence, and practice early-stage threat detection using open-source tools.
 
 ---
 
-## 🧠 Objective
+## ✏️ Objective
 
 To simulate a vulnerable Linux system that attracts potential attackers, enabling the collection of behavioral and network data for analysis. This lab reinforces key Blue Team skills such as detection, monitoring, and incident documentation.
 
@@ -42,6 +42,6 @@ The honeypot was successfully deployed in a VM and configured to mimic a real SS
 
 ---
 
-## 🚨 Cybersecurity Relevance
+## 📤 Cybersecurity Relevance
 
 This lab reinforces core Blue Team concepts and introduces the foundations of **deception technology**, showing how honeypots can serve as early detection systems in modern network defense strategies.
