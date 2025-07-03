@@ -95,4 +95,4 @@ This repo. showcases basic Cyber Security Professional skills. Other repos are b
 
 ---
 
-> ⚠️ This project was conducted entirely in a controlled lab environment for educational purposes only. No real-world systems were targeted or harmed. All tools (e.g., Metasploit) were used ethically and responsibly under strict simulation conditions.
+> ⚠️ All projects were conducted entirely in a controlled lab environment for educational purposes only. No real-world systems were targeted or harmed. All tools (e.g., Metasploit) were used ethically and responsibly under strict simulation conditions.
