@@ -7,7 +7,7 @@ This lab demonstrates how I used PowerShell scripting to automate common IT admi
 - File backup
 - Network configuration
 
-Completed as part of my cybersecurity certification through Simplilearn (backed by Purdue University), this lab reinforces foundational skills in scripting, system auditing, and blue team automation.
+Completed as part of my cybersecurity certification, this lab reinforces foundational skills in scripting, system auditing, and blue team automation.
 
 📄 [View the full PDF here](https://github.com/purpleteam-mike/Practice-Labs/blob/main/it-task-automation/IT_Task_Automation_Lab.pdf)
 
