@@ -1,0 +1,11 @@
+This project is provided for EDUCATIONAL USE ONLY.
+
+All activities documented or demonstrated in this repository were performed in a safe, isolated, and simulated lab environment. No real systems, networks, or third parties were harmed in the process.
+
+The author assumes NO RESPONSIBILITY for any misuse of the materials or techniques presented. Use of this project outside of an educational context — especially in real-world environments without proper authorization — is strictly discouraged and may be illegal.
+
+You are permitted to copy, modify, or study the contents of this repository for educational purposes only.
+
+Always act responsibly. Always stay ethical.
+
+— Michael Warner
