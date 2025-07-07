@@ -84,8 +84,8 @@ My approach is grounded in the belief that strong cybersecurity professionals mu
 - IT Task Automation with PowerShell  
 - Linux Honeypot Deployment and Monitoring   
 - Mock Risk Assessment
-- Infecting a Windows System: Creating + Deploying a Payload (Forthcoming)
-- Digital Forensics and Steganography: Recovering Hidden Data from a JPG Image (Anticipated)
+- Infecting a Windows System: Creating + Deploying a Payload
+- Updating soon
 
 ---
 
